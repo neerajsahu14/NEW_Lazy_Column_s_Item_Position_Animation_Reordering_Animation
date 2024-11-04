@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NEW_Lazy_Column_s_Item_Position_Animation_Reordering_Animation" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
